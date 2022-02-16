@@ -4,3 +4,5 @@ Eu já havia mudado a branch de (Master) para (Main), eu reinstalei o (git), eu 
 Por isso tentei forçar o codigo dentro atraves do (upload files), mas não consigui colocar as pastas (.expo) e (.expo-shared);
 Eu peço ao senhor que, por favor, aceite o codigo;
 Caso não, por favor, comunique comigo pelo Discord, meu nome é Joao Madruga
+
+Ps: Isso é caso o arquivo do video não tenha funcionado esse é o link do video: https://drive.google.com/file/d/1dmb8PLqjXFA1Ia-GZnrXuuoSudltdkJQ/view?usp=sharing
