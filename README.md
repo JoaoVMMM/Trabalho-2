@@ -5,4 +5,4 @@ Por isso tentei forçar o codigo dentro atraves do (upload files), mas não cons
 Eu peço ao senhor que, por favor, aceite o codigo;
 Caso não, por favor, comunique comigo pelo Discord, meu nome é Joao Madruga
 
-Ps: Isso é caso o arquivo do video não tenha funcionado esse é o link do video: https://drive.google.com/file/d/1dmb8PLqjXFA1Ia-GZnrXuuoSudltdkJQ/view?usp=sharing
+Ps: Isso é so por precalção, mas vou por o link do video: https://drive.google.com/file/d/1dmb8PLqjXFA1Ia-GZnrXuuoSudltdkJQ/view?usp=sharing
